@@ -46,7 +46,7 @@
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
       <mj-column width="100%">
-        <mj-image padding="0" width="700px" src="./images/img1.jpg" alt=""/>
+        <mj-image padding="0" width="700px" src="./images/img1.jpg" alt="famille entrain de consulter ensemble une tablette numérique"/>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" mj-class="bgW">
@@ -106,7 +106,7 @@
     </mj-section>
     <mj-section padding="0" padding-bottom="20px" mj-class="bgW">
       <mj-column>
-        <mj-image padding="0" width="700px" src="./images/img2.jpg"></mj-image>
+        <mj-image padding="0" width="700px" src="./images/img2.jpg" alt="tableau numérique NetGear"/>
       </mj-column>
     </mj-section>
     <mj-section padding="15px" mj-class="bgT1">
@@ -124,7 +124,7 @@
     <mj-wrapper mj-class="bgW" padding="30px 28px 31px">
       <mj-section padding="0" padding-bottom="36px">
         <mj-column width="20%" vertical-align="middle">
-          <mj-image padding="0" width="140px" src="./images/netgearBlack.png" alt="logo Netgear de couleur noir"></mj-image>
+          <mj-image padding="0" width="140px" src="./images/black+NGLogotype.png" alt="logo Netgear de couleur noir"/>
         </mj-column>
         <mj-column width="50%" vertical-align="middle"></mj-column>
         <mj-column width="30%" vertical-align="middle">
