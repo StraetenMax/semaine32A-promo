@@ -50,5 +50,61 @@
         </mj-column>
       </mj-group>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/img1.jpg"></mj-image>
+        <mj-text>A ne pas rater&nbsp;!</mj-text>
+        <mj-text>C'est l'occasion ou jamais de profiter des promos exceptionnelles grâce à nos réductions et aux codes promos* cumulables. Profitez-en et découvrez notre sélection faite rien que pour vous&nbsp;!</mj-text>
+        <mj-button>Découvrir</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="50%">
+        <mj-image src="./images/orbi1.jpg"></mj-image>
+        <mj-text>Système Mesh Orbi Wifi 6</mj-text>
+        <mj-text>AX1800 (RBK353)</mj-text>
+        <mj-text>jusqu'à 300m <sup>2</sup></mj-text>
+        <mj-text>349.99€ 299.99€</mj-text>
+        <mj-button>j'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/orbi2.jpg"></mj-image>
+        <mj-text>Système Mesh Orbi Wifi 6</mj-text>
+        <mj-text>AX4200 (RBX753)</mj-text>
+        <mj-text>jusqu'à 525m <sup>2</sup></mj-text>
+        <mj-text>699.99€ 599.99€</mj-text>
+        <mj-button>j'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/mob1.jpg"></mj-image>
+        <mj-text>Routeur Mobile 4G</mj-text>
+        <mj-text>1 Gbit/s (MR1100)</mj-text>
+        <mj-text>309.99€ 279.99€</mj-text>
+        <mj-button>j'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/mob2.jpg"></mj-image>
+        <mj-text>Routeur Mobile 4G</mj-text>
+        <mj-text>2 Gbit/s (MR2100)</mj-text>
+        <mj-text>429.99€ 379.99€</mj-text>
+        <mj-button>j'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/whiteProd.jpg"></mj-image>
+        <mj-text>Répéteur WiFi Mesh</mj-text>
+        <mj-text>Dual band (EX7300)</mj-text>
+        <mj-text>jusqu'à 2.2 Gbit/s </mj-text>
+        <mj-text>94.99€ 74.99€</mj-text>
+        <mj-button>j'en profite</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="./images/blackProd.jpg"></mj-image>
+        <mj-text>Répéteur WiFi Mesh</mj-text>
+        <mj-text>Tri band (EX7700)</mj-text>
+        <mj-text>jusqu'à 2.2 Gbit/s </mj-text>
+        <mj-text>114.99€ 89.99€</mj-text>
+        <mj-button>j'en profite</mj-button>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
